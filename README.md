@@ -36,7 +36,7 @@ Stay tuned for regular updates as these features are currently under development
 4. **Convenience**: No need for physical input devices—control your device with gestures.
 
 ---
-##Requirements 
+## Requirements 
 Requirements
 Python 3.7+
 Webcam
