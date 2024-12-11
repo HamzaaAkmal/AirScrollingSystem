@@ -1,4 +1,4 @@
-# Gesture-Based Scrolling System
+# Air Scrolling System
 
 This project introduces a futuristic approach to user interaction by replacing traditional scrolling mechanisms with hand gesture controls. Using a webcam, computer vision, and machine learning tools, the program allows users to scroll and perform basic actions without touching a mouse or keyboard.
 
