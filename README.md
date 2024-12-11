@@ -49,3 +49,43 @@ Follow these steps to set up the project:
    ```bash
    git clone https://github.com/HamzaaAkmal/AirScrollingSystem.git
    cd AirScrollingSystem
+
+## Customization
+
+You can adjust key parameters in the script to modify the behavior:
+
+- **Scroll Sensitivity**: Adjust with `SCROLL_SENSITIVITY` (default: `50`), which determines the intensity of scroll movements.
+- **Gesture Delay**: Set using `GESTURE_DELAY` (default: `0.1` seconds) to control the minimum delay between consecutive gestures.
+- **Angle Threshold**: Modify via `ANGLE_THRESHOLD` (default: `45` degrees) to define the range of upward or downward gestures.
+
+---
+
+## Future Enhancements
+
+The following features are under development and will be added in future updates:
+
+- **Zoom and Panning Gestures**: Intuitive gestures to zoom in/out and pan across the screen.
+- **Multimedia Control**: Hand gestures for play, pause, volume control, and other media actions.
+- **Smart Home Integration**: Use hand gestures to interact with smart home devices for a completely touchless experience.
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## Acknowledgments
+
+This project leverages the power of several amazing tools and libraries:
+
+- [OpenCV](https://opencv.org/): Real-time computer vision processing.
+- [Mediapipe](https://mediapipe.dev/): Machine learning solutions for hand tracking.
+- [PyAutoGUI](https://pyautogui.readthedocs.io/): Screen automation library for Python.
+- [NumPy](https://numpy.org/): Essential scientific computing library.
+
+---
+
+Feel free to contribute by submitting issues or pull requests. Let's make interaction more intuitive and futuristic!
+
