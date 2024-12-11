@@ -37,10 +37,9 @@ Stay tuned for regular updates as these features are currently under development
 
 ---
 ## Requirements 
-Requirements
-Python 3.7+
-Webcam
-Libraries: OpenCV, Mediapipe, PyAutoGUI, NumPy
+1. Python 3.7+
+2. Webcam
+3. Libraries: OpenCV, Mediapipe, PyAutoGUI, NumPy
 
 ## Installation
 
