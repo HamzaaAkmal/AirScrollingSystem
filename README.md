@@ -1,6 +1,6 @@
 # Gesture-Based Scrolling System
 
-This project introduces a futuristic approach to user interaction by replacing traditional scrolling mechanisms with hand gesture controls. Using a webcam, computer vision, and machine learning tools, the program allows users to scroll and perform basic actions without touching a mouse or keyboard.  
+This project introduces a futuristic approach to user interaction by replacing traditional scrolling mechanisms with hand gesture controls. Using a webcam, computer vision, and machine learning tools, the program allows users to scroll and perform basic actions without touching a mouse or keyboard.
 
 ---
 
@@ -17,6 +17,17 @@ This project introduces a futuristic approach to user interaction by replacing t
 
 ---
 
+## Current Development
+
+The system is evolving to include more features:
+1. **Training Improvements**: Enhanced gesture recognition for accurate scrolling with precise 45-degree upward and downward movements.
+2. **Zoom and Tab Switching**: Upcoming features will allow zooming and switching between tabs using gestures.
+3. **Full PC Control**: Future updates will integrate full PC navigation and control, enabling a complete hands-free experience.
+
+Stay tuned for regular updates as these features are currently under development!
+
+---
+
 ## Why Use This System?
 
 1. **Innovative Interaction**: A step towards intuitive, futuristic user interfaces.
@@ -25,6 +36,11 @@ This project introduces a futuristic approach to user interaction by replacing t
 4. **Convenience**: No need for physical input devices—control your device with gestures.
 
 ---
+##Requirements 
+Requirements
+Python 3.7+
+Webcam
+Libraries: OpenCV, Mediapipe, PyAutoGUI, NumPy
 
 ## Installation
 
