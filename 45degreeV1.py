@@ -102,3 +102,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+## Soon Gonna work on buidling its gui version later 2025
